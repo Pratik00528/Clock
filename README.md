@@ -30,7 +30,7 @@ To run the Clock App locally, follow these steps:
 2. Navigate to the project directory:
 
 ```bash
-   cd clock/code
+   cd Clock/code
 ```
 
 3. Open the index.html file in your web browser.
